@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi 👋, I'm Ranjan
 
 <!--
 **ranjannkumar/ranjannkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+## A passionate developer from India
+
  🔭I’m currently working on MERN Stack and Cloud Computing<br> 👯I'm looking to collaborate on: Open-source projects focused on distributed systems, scalable backend solutions, and innovative applications utilizing microservices architecture<br>🌱 I'm currently learning: GoLang for concurrent programming, advanced concepts in cloud security.<br><br>💬 Ask me about: Microservices architecture, Decentralized Systems, Full-Stack Development (Node.js, React.js), API design, and building resilient software systems.<br><br>⚡ Fun fact: I love tackling challenging coding puzzles in my free time and experimenting with new programming paradigms!
 
 
