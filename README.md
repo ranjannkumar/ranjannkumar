@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## A passionate developer from India
 
- 🔭I’m currently working on MERN Stack and Cloud Computing<br> 👯I'm looking to collaborate on: Open-source projects focused on distributed systems, scalable backend solutions, and innovative applications utilizing microservices architecture<br>🌱 I'm currently learning: GoLang for concurrent programming, advanced concepts in cloud security.<br><br>💬 Ask me about: Microservices architecture, Decentralized Systems, Full-Stack Development (Node.js, React.js), API design, and building resilient software systems.<br><br>⚡ Fun fact: I love tackling challenging coding puzzles in my free time and experimenting with new programming paradigms!
+ 🔭 Currently working on: Full-Stack Web Apps (MERN + Golang)<br> 👯I'm looking to collaborate on: Open-source projects in Web3, distributed systems, and scalable SaaS platforms.<br>🌱 I'm currently learning: Advanced Solana smart contracts with Anchor framework.<br><br>💬 Ask me about:Building secure dApps (Rust + Solana),Microservices & API design (Node.js, Go, GraphQL),Real-time apps (Socket.io, WebSockets),Full-stack development (React.js, Next.js, Tailwind, MongoDB, PostgreSQL)<br><br>⚡ Fun fact: I treat debugging like solving puzzles—it’s where I learn the most and have the most fun.
 
 
 ## 🌐 Socials:
