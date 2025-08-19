@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## A passionate developer from India
 
- 🔭 Currently working on: Full-Stack Web Apps (MERN + Golang). <br> 👯I'm looking to collaborate on: Open-source projects in Web3, distributed systems, and scalable SaaS platforms.<br>🌱 I'm currently learning: Advanced Solana smart contracts with Anchor framework.<br><br>💬 Ask me about:Building secure dApps (Rust + Solana), Microservices & API design (Node.js, Go, GraphQL), Real-time apps (Socket.io, WebSockets), Full-stack development (React.js, Next.js, Tailwind, MongoDB, PostgreSQL).<br><br>⚡ Fun fact: I treat debugging like solving puzzles—it’s where I learn the most and have the most fun.
+ 🔭 Currently working on: Full-Stack Web Apps (MERN + Golang). <br> 👯I'm looking to collaborate on: Open-source projects in Web3, distributed systems, and scalable SaaS platforms.<br>🌱 I'm currently learning: Advanced Solana smart contracts with Anchor framework.<br><br>💬 Ask me about: Building secure dApps (Rust + Solana), Microservices & API design (Node.js, Go, GraphQL), Real-time apps (Socket.io, WebSockets), Full-stack development (React.js, Next.js, Tailwind, MongoDB, PostgreSQL).<br><br>⚡ Fun fact: I treat debugging like solving puzzles—it’s where I learn the most and have the most fun.
 
 
 ## 🌐 Socials:
